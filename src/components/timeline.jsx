@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Mechanical Designer at New Era Converting <span>2017-present</span></h2>
                         {/*<p>I have joined the New Era Converting as a Mechanical Designer in the engineering team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>*/}
-                        <p>I have joined the New Era Converting as a Mechanical Designer in the engineering team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>I have joined the New Era Converting as a Mechanical Designer in the engineering team. My major part of the job has been into designing and findind innovative solutions for new or existing equipment. Also utilizing Inventor to create, maintain, correct and update CAD drawings. </p>
                       </div>
                     </div>
                   </article>
@@ -33,13 +33,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Master at Stevens Institute of Tech <span>2016-2017</span></h2>
+                        <h2>Master at Stevens Institute of Technology <span>2016-2017</span></h2>
                         {/*<p>I was pursuing my Master with major in Mechanical Engineering. I have taken courses like DFA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>*/}
-                        <p>I was pursuing my Master with major in Mechanical Engineering. I have taken courses like DFA,</p>
+                        <p>I completed my Master with major in Mechanical Engineering. I have taken courses like DFA, FEA, Additive Manufacturing, Computer Aided Manufacturing and Project Management. </p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  {/*<article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
                         <i className="icon-pen2" />
@@ -49,7 +49,7 @@ export default class Timeline extends Component {
                         <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
                       </div>
                     </div>
-                  </article>
+                  </article>*/}
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-none">

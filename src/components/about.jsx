@@ -15,7 +15,7 @@ export default class About extends Component {
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     {/*<p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p>*/}
-                    <p>I was a Mechanical Engineering grad student from Stevens Institute of Technology.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p>
+                    <p>I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years. </p>
                     <p>I am always exploring new stuff and challenge myself by learning new skills. </p>
                     </div>
                 </div>
@@ -40,7 +40,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using Vue,JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript, React, Vue, HTML, CSS</p>
                 </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Mechanical Design</h3>
-                    <p>As coming from the ME background, I have good grasp over fundamental concepts of degigning machinery and DFM</p>
+                    <p>As coming from the ME background, I have good grasp over fundamental concepts of designing machinery and DFM</p>
                 </div>
                 </div>
             </div>
