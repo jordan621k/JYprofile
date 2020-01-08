@@ -39,7 +39,7 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Software Development </h3>
                     <p>I have experience building websites using JavaScript, React, Vue, HTML, CSS</p>
                 </div>
                 </div>
@@ -47,7 +47,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-calculator" />
                 </span>
                 <div className="desc">
                     <h3>Mechanical Design</h3>
@@ -58,7 +58,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-device-desktop" />
                 </span>
                 <div className="desc">
                     <h3>3D Modeling</h3>
