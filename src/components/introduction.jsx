@@ -15,7 +15,8 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hi! <br />I'm Jordan</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1xC9QxaONKhFNbwWVI6BdWJZt5BB044TY" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1xC9QxaONKhFNbwWVI6BdWJZt5BB044TY" target="_blank" rel="noopener noreferrer">View Software's CV <i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/open?id=1xC9QxaONKhFNbwWVI6BdWJZt5BB044TY" target="_blank" rel="noopener noreferrer">View Mechanical's CV <i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -31,6 +32,7 @@ export default class Introduction extends Component {
                         <div className="desc">
                           <h1>I love building<br /> THINGS !!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/jordan621k" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://jordan621k.github.io/SnowFinder/?fbclid=IwAR3KLPRGaNuQBQU5NYCjAU-ujZCCzDOiSueGkJR0wvCIMzqVFhiA716xYd4" target="_blank" rel="noopener noreferrer">Find Dat Snow <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>

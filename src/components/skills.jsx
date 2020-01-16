@@ -32,7 +32,7 @@ export default class Skills extends Component {
                       </span>
                       <div className="desc">
                           <h3>Mechanical Design</h3>
-                          <p>As coming from the ME background, I have good grasp over fundamental concepts of designing machinery and DFM</p>
+                          <p>As coming from the ME background, I have good grasp over fundamental concepts of machinery design and DFM</p>
                       </div>
                       </div>
                   </div>
@@ -43,7 +43,7 @@ export default class Skills extends Component {
                       </span>
                       <div className="desc">
                           <h3>3D Modeling</h3>
-                          <p>I worked as a Mechanical Designer and have knowledge creating 3D models, shop assembly drawings and detail drawings </p>
+                          <p>As a Mechanical Designer and have knowledge creating 3D models, shop assembly drawings and detail drawings </p>
                       </div>
                       </div>
                   </div>
