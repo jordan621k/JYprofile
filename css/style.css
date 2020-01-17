@@ -76,7 +76,7 @@ figure {
   padding-top: 1em;
   padding-bottom: 40px;
   float: left;
-  width: 300px;
+  width: 250px;
   position: fixed;
   overflow: scroll;
   z-index: 1001;
@@ -86,7 +86,7 @@ figure {
   transition: 0.5s; }
   @media screen and (max-width: 768px) {
     #colorlib-aside {
-      width: 300px;
+      width: 250px;
       -moz-transform: translateX(-300px);
       -webkit-transform: translateX(-300px);
       -ms-transform: translateX(-300px);
@@ -96,7 +96,7 @@ figure {
   #colorlib-aside .author-img {
     width: 150px;
     height: 150px;
-    margin: 0 auto;
+    margin: 30px auto;
     margin-bottom: 30px;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
